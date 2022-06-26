@@ -7,7 +7,7 @@ Me chamo Rafael Lodi, tenho 22 anos, moro em Guarujá-SP, curso bacharel em Enge
 ### ✨ Curiosidades
 
 - ⚡ Sou fã de Harry Potter
-- 💻 Atualmente tenho preferência em front-end.
+- 💻 Atualmente tenho preferência em front-end
 - 🎮 Amo jogar vídeo game, principalmente League of Legends
 
 #
