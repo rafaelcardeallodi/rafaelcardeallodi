@@ -2,15 +2,7 @@
 
 <img align="right" src=".github/image.png" width="300"/>
 
-Me chamo Rafael Lodi, tenho 23 anos, moro em Guarujá-SP, curso bacharel em Engenharia de Software e atualmente sou desenvolvedor **Fullstack Júnior** na GBM Teck & Control.
-
-### ✨ Curiosidades
-
-- ⚡ Sou fã de Harry Potter
-- 💻 Atualmente tenho preferência em front-end
-- 🎮 Amo jogar vídeo game, principalmente League of Legends
-
-#
+Me chamo Rafael Lodi, tenho 23 anos, moro em Guarujá-SP, curso bacharel em Engenharia de Software e atualmente sou desenvolvedor **Fullstack Júnior II** na GBM Tech & Control.
 
 ## 📋 Skills
 
