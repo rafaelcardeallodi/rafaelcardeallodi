@@ -2,7 +2,7 @@
 
 <img align="right" src=".github/image.png" width="300"/>
 
-Me chamo Rafael Lodi, tenho 24 anos, moro em Guarujá-SP, curso bacharel em Engenharia de Software e atualmente sou desenvolvedor **Fullstack** na GBM Tech & Control.
+Me chamo Rafael Lodi, tenho 24 anos, moro em Guarujá-SP, formado bacharel em Engenharia de Software e atualmente sou desenvolvedor **Fullstack** na GBM Tech & Control.
 
 ## 📋 Skills
 
