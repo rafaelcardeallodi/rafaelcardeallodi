@@ -5,7 +5,7 @@
 I'm a Full Stack Developer based in Brazil
 
 - 🏢 I'm currently working at GBM Tech & Control.
-- ⚙️ I use daily: .js, .html, .css, sql
+- ⚙️ I use daily: .tsx, .html, .css, sql
 - ⚡️ Fun fact: I really like Harry Potter
 - 😋 My favorite food is Japanese food
 
